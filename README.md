@@ -2,31 +2,56 @@
 
 Hallo ihr Lieben. Ihr werdet hier alle Informationen und Optionen zu unserer Cancun Reise '20 finden.
 
+- [Cancun 2020](#cancun-2020)
+  - [Reisende / Gruppen](#reisende--gruppen)
+    - [Familie Belch (BE)](#familie-belch-be)
+    - [Familie Belch Garcia (BG) - **Reisen einen Tag früher ab**](#familie-belch-garcia-bg---reisen-einen-tag-fr%c3%bcher-ab)
+    - [Familie Garcia Zermeno (GZ) - **Bleiben nur für eine Woche!**](#familie-garcia-zermeno-gz---bleiben-nur-f%c3%bcr-eine-woche)
+    - [Theresa und Jenny (TJ)](#theresa-und-jenny-tj)
+    - [Familie Sarkander (SA)](#familie-sarkander-sa)
+  - [Die Algen](#die-algen)
+  - [Unterkünfte](#unterk%c3%bcnfte)
+    - [All Ritmo Cancun](#all-ritmo-cancun)
+      - [2.994,- € | 46€ pro Nacht und Gruppe](#2994--%e2%82%ac--46%e2%82%ac-pro-nacht-und-gruppe)
+      - [Pro](#pro)
+      - [Kontra](#kontra)
+      - [Beschreibung](#beschreibung)
+    - [Grand Villa Cancun](#grand-villa-cancun)
+      - [4.213,- € | 65€ pro Nacht und Gruppe](#4213--%e2%82%ac--65%e2%82%ac-pro-nacht-und-gruppe)
+      - [Pro](#pro-1)
+      - [Kontra](#kontra-1)
+      - [Beschreibung](#beschreibung-1)
+    - [Casa en la zona hotelera frente a la Laguna](#casa-en-la-zona-hotelera-frente-a-la-laguna)
+      - [3.135,- € | 48€ pro Nacht und Gruppe](#3135--%e2%82%ac--48%e2%82%ac-pro-nacht-und-gruppe)
+      - [Pro](#pro-2)
+      - [Beschreibung](#beschreibung-2)
+      - [Preis im Detail](#preis-im-detail)
+
 ## Reisende / Gruppen
 
-### Familie Belch
+### Familie Belch (BE)
 
 - Antje
 - Thomas
 
-### Familie Belch Garcia
+### Familie Belch Garcia (BG) - **Reisen einen Tag früher ab**
 
 - Amelie
 - Cynthia
 - Mila
 - Tobias
 
-### Familie Garcia Zermeno - **Bleiben nur für eine Woche!**
+### Familie Garcia Zermeno (GZ) - **Bleiben nur für eine Woche!**
 
 - Blanca
 - Gerardo
 
-### Theresa und Jenny
+### Theresa und Jenny (TJ)
 
 - Jenny
 - Theresa
 
-### Familie Sarkander
+### Familie Sarkander (SA)
 
 - Carsten
 - Katrin
@@ -119,3 +144,22 @@ Auch in der Hotelgegend - wennauch etwas ruhiger, als die Grand Villa - liegt di
 <a href="https://goo.gl/maps/DpWKeLXoe5dsF1bT6" target="_blank">
   <img src="./images/casa.png" style="max-width:700px" />
 </a>
+
+#### Preis im Detail
+
+Da diese Option bisher die meisten Stimmen erhalten hat, werde ich die Kostenaufteilung mal im Detail beleuchten. **Da Blanca und Gerardo nur 7 Nächte bleiben, denke ich, sollten sie auch nur 7 Nächte zahlen und wir teilen den Rest zwischen allen anderen Parteien auf. Falls das für euch nicht in Ordnung sein sollte, gebt mir bitte eine schnelle Rückmeldung.** Ich berechne einmal nach Anzahl der Gruppen (5) und Anzahl der Personen pro Gruppe (11). **Amelie habe ich nicht mit berechnet, da Babys idR nicht berechnet werden und sie auch kein eigenes Bett etc. hat.**
+
+Gesamtpreis für 13 Nächte: 3.135,- €
+
+| Gruppe | Nächte | Berechnung | nach      |            |                     |           |            |
+| ------ | ------ | ---------- | --------- | ---------- | ------------------- | --------- | ---------- |
+|        |        | Gruppe     |           |            | Personen pro Gruppe |           |            |
+|        |        | Basis      | GZ Zusatz | **Gesamt** | Basis               | GZ Zusatz | **Gesamt** |
+|        |        |            |           |            |                     |           |            |
+| GZ     | 7      | 336        | -         | **336**    | 308                 | -         | **308**    |
+| BG     | 13     | 624        | 76        | **700**    | 858                 | 84        | **942**    |
+| BE     | 13     | 624        | 76        | **700**    | 572                 | 56        | **628**    |
+| SA     | 13     | 624        | 76        | **700**    | 572                 | 56        | **628**    |
+| TJ     | 13     | 624        | 76        | **700**    | 572                 | 56        | **628**    |
+|        |        |            |           |            |                     |           |            |
+| Gesamt |        |            |           | **3.136**  |                     |           | **3.134**  |
