@@ -92,7 +92,7 @@ Hierbei handelt es sich um ein Penthouse, welches zu einem [Hotelkomplex](https:
 
 #### Beschreibung
 
-Auch über [airbnb](https://www.airbnb.de/rooms/24454587?location=Canc%C3%BAn%2C%20Mexiko&adults=10&children=2&check_in=2020-02-29&check_out=2020-03-13&source_impression_id=p3_1564209566_2cYEdQ8Jc1FdFsbt&guests=12&sl_alternate_dates_exclusion=true) kann diese Villa gebucht werden, die Teil eines Appartementkomplexes ist. Es gibt einen Pool, 5 Schlafzimmer, die Anlage befindet sich in der Hotelgegend und ist nur wenige Meter vom Strand entfernt. Aufgrund der Lage gibt es hier mehr Infrastruktur, als bei All Ritmo Cancun. Man liest, dass die Nähe zum Hardrock Hotel für etwas Lärm sorgen kann. Orte zum Ausgehen, NAchtclubs etc., sind nicht weit entfernt
+Auch über [airbnb](https://www.airbnb.de/rooms/24454587?location=Canc%C3%BAn%2C%20Mexiko&adults=10&children=2&check_in=2020-02-29&check_out=2020-03-13&source_impression_id=p3_1564209566_2cYEdQ8Jc1FdFsbt&guests=12&sl_alternate_dates_exclusion=true) kann diese Villa gebucht werden, die Teil eines Appartementkomplexes ist. Es gibt einen Pool, 5 Schlafzimmer, die Anlage befindet sich in der Hotelgegend und ist nur wenige Meter vom Strand entfernt. Aufgrund der Lage gibt es hier mehr Infrastruktur, als bei All Ritmo Cancun. Orte zum Ausgehen, Nachtclubs etc., sind nicht weit entfernt. Man liest, dass die Nähe zum Hardrock Hotel für etwas Lärm sorgen kann.
 
 <a href="https://goo.gl/maps/ahboLaLnhEPDvhCR9" target="_blank">
   <img src="./images/villas-las-cupulas.png" style="max-width:700px" />
