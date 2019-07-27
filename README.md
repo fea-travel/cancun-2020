@@ -48,11 +48,11 @@ Hier wird die Algensituation der Regionen von _exzessiv_ (excesivo) bis _wenig_ 
 
 ## Unterkünfte
 
-_Die Preise gelten immer für 12 Personen (10 Erwachsene, 1 Kind, 1 Baby) und den Zeitraum 29.02.2020 - 13.03.2020_
+Die Preise gelten immer für **12 Personen (10 Erwachsene, 1 Kind, 1 Baby)** und den Zeitraum **29.02.2020 - 13.03.2020**! Zusätzlich habe ich sie pro Nacht und Gruppe berechnet, um einen besseren Eindruck von den Kosten zu haben. Aufgelistet sind die Unterkünfte in der Reihenfolge in der wir sie gefunden haben.
 
-### 1) All Ritmo Cancun
+### All Ritmo Cancun
 
-#### Preis: 2.994,- € | 46€ pro Nacht und Gruppe
+#### 2.994,- € | 46€ pro Nacht und Gruppe
 
 #### Pro
 
@@ -64,6 +64,7 @@ _Die Preise gelten immer für 12 Personen (10 Erwachsene, 1 Kind, 1 Baby) und de
 
 #### Kontra
 
+- Betten sind auf wenige Zimmer aufgeteilt
 - etwas wenig Infrastruktur (abseits vom Hotelkomplex)
 - Fahrtkosten zu Sehenswürdigkeiten könnten im Vergleich etwas höher sein
 
@@ -75,4 +76,49 @@ Das schöne hier, es gibt einen kleinen Wasserpark, wir sind direkt am Strand, e
 
 <a href="https://goo.gl/maps/Y3RPwxKPGdcugQxj7" target="_blank">
   <img src="./images/all-ritmo-cancun.png" style="max-width:700px" />
+</a>
+
+### Grand Villa Cancun
+
+#### 4.213,- € | 65€ pro Nacht und Gruppe
+
+#### Pro
+
+- wenige Meter zum Strand
+- direkt in der Hotelgegend = Restaurant und Einkaufsmöglichkeiten
+- Pool
+- viele Zimmer
+
+#### Kontra
+
+- könnte recht laut sein
+
+#### Beschreibung
+
+Auch über [airbnb](https://www.airbnb.de/rooms/24454587?location=Canc%C3%BAn%2C%20Mexiko&adults=10&children=2&check_in=2020-02-29&check_out=2020-03-13&source_impression_id=p3_1564209566_2cYEdQ8Jc1FdFsbt&guests=12&sl_alternate_dates_exclusion=true) kann diese Villa gebucht werden, die Teil eines Appartementkomplexes ist. Es gibt einen Pool, 5 Schlafzimmer, die Anlage befindet sich in der Hotelgegend und ist nur wenige Meter vom Strand entfernt. Aufgrund der Lage gibt es hier mehr Infrastruktur, als bei All Ritmo Cancun. Man liest, dass die Nähe zum Hardrock Hotel für etwas Lärm sorgen kann. Orte zum Ausgehen, NAchtclubs etc., sind nicht weit entfernt
+
+<a href="https://goo.gl/maps/ahboLaLnhEPDvhCR9" target="_blank">
+  <img src="./images/villas-las-cupulas.png" style="max-width:700px" />
+</a>
+
+### Casa en la zona hotelera frente a la Laguna
+
+#### 3.135,- € | 48€ pro Nacht und Gruppe
+
+#### Pro
+
+- wenige Meter zum Strand
+- direkt in der Hotelgegend = Restaurant und Einkaufsmöglichkeiten
+- Pool im Komplex
+- privater Pool
+- ruhig
+- gute Anbindung mit Bus
+- Zugang zur Lagune
+
+#### Beschreibung
+
+Auch in der Hotelgegend - wennauch etwas ruhiger, als die Grand Villa - liegt diese Villa, als Teil eines Appartmentkomplexes. Auch hier würden wir wieder über [airbnb](https://www.airbnb.de/rooms/22980658?location=Canc%C3%BAn%2C%20Mexiko&adults=10&children=1&check_in=2020-02-29&check_out=2020-03-13&source_impression_id=p3_1564211732_4pXpCx7AeRPnQ9kq&guests=11&infants=1&sl_alternate_dates_exclusion=true) buchen. Das Schöne ist, dass wir neben einem privaten Pool auch direkten Zugang zu der Lagune haben, in der wir mit Kajaks paddeln können. Auch hier finden wir eine gute Infrastruktur und sogar eine sehr gute Anbindung mit dem Bus, um Nachtclubs etc. zu erreichen.
+
+<a href="https://goo.gl/maps/DpWKeLXoe5dsF1bT6" target="_blank">
+  <img src="./images/casa.png" style="max-width:700px" />
 </a>
