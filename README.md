@@ -2,7 +2,7 @@
 
 Hallo ihr Lieben. Ihr werdet hier alle Informationen und Optionen zu unserer Cancun Reise '20 finden.
 
-## Reisende
+## Reisende / Gruppen
 
 ### Familie Belch
 
@@ -23,8 +23,13 @@ Hallo ihr Lieben. Ihr werdet hier alle Informationen und Optionen zu unserer Can
 
 ### Theresa und Jenny
 
-- Theresa
 - Jenny
+- Theresa
+
+### Familie Sarkander
+
+- Carsten
+- Katrin
 
 ## Die Algen
 
@@ -43,10 +48,31 @@ Hier wird die Algensituation der Regionen von _exzessiv_ (excesivo) bis _wenig_ 
 
 ## Unterkünfte
 
+_Die Preise gelten immer für 12 Personen (10 Erwachsene, 1 Kind, 1 Baby) und den Zeitraum 29.02.2020 - 13.03.2020_
+
 ### 1) All Ritmo Cancun
+
+#### Preis: 2.994,- € | 46€ pro Nacht und Gruppe
+
+#### Pro
+
+- direkt am Strand
+- Hotelinfrastrukur
+- Pool
+- Wasserpark
+- Frühstück möglich
+
+#### Kontra
+
+- etwas wenig Infrastruktur (abseits vom Hotelkomplex)
+- Fahrtkosten zu Sehenswürdigkeiten könnten im Vergleich etwas höher sein
+
+#### Beschreibung
 
 Hierbei handelt es sich um ein Penthouse, welches zu einem [Hotelkomplex](https://www.allritmocancun.com/en/galeria/) gehört, wir aber über [airbnb](https://www.airbnb.de/rooms/30560817?location=Canc%C3%BAn%2C%20Mexiko&adults=10&children=2&check_in=2020-02-29&check_out=2020-03-13&source_impression_id=p3_1564205798_WGMMT0FXvskewmMB&guests=12&sl_alternate_dates_exclusion=true) buchen könnten.
 
-Das schöne hier, es gibt einen kleinen Wasserpark, wir sind direkt am Strand, es gibt einen Pool mit Bar und Restaurants als Teil der Hotelinfrastruktur, die wie, teilweise umsonst, teilweise gegen Gebühr, nutzen können. Auch Frühstück könnte man buchen. Das Hotel liegt etwas abgelegen, wodurch es sehr ruhig, aber auch etwas entfernt von sonstiger Infrastruktur ist.
+Das schöne hier, es gibt einen kleinen Wasserpark, wir sind direkt am Strand, es gibt einen Pool mit Bar und Restaurants als Teil der Hotelinfrastruktur, die wie, teilweise umsonst, teilweise gegen Gebühr, nutzen können. Auch Frühstück könnte man buchen. Das Hotel liegt etwas abgelegen, wodurch es sehr ruhig, aber auch etwas entfernt von sonstiger Infrastruktur ist. Wenn man am Strand entlag läuft, findet man ein paar Fischrestaurants. Für Supermärkte und andere Restaurants müssten wir vermutlich ein Taxi nehmen.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17858.76091683894!2d-86.81014806025395!3d21.199598732588495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4c2ea1327c8be1%3A0xd1b342cc46d2e85e!2sAll+Ritmo+Cancun+Resort+%26+Waterpark!5e1!3m2!1sde!2sde!4v1564213179661!5m2!1sde!2sde" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<a href="https://goo.gl/maps/Y3RPwxKPGdcugQxj7" target="_blank">
+  <img src="./images/all-ritmo-cancun.png" style="max-width:700px" />
+</a>
