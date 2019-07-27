@@ -69,9 +69,7 @@ Die Preise gelten immer für **12 Personen (10 Erwachsene, 1 Kind, 1 Baby)** und
 
 #### Beschreibung
 
-Hierbei handelt es sich um ein Penthouse, welches zu einem [Hotelkomplex](https://www.allritmocancun.com/en/galeria/) gehört, wir aber über [airbnb](https://www.airbnb.de/rooms/30560817?location=Canc%C3%BAn%2C%20Mexiko&adults=10&children=2&check_in=2020-02-29&check_out=2020-03-13&source_impression_id=p3_1564205798_WGMMT0FXvskewmMB&guests=12&sl_alternate_dates_exclusion=true) buchen könnten.
-
-Das schöne hier, es gibt einen kleinen Wasserpark, wir sind direkt am Strand, es gibt einen Pool mit Bar und Restaurants als Teil der Hotelinfrastruktur, die wie, teilweise umsonst, teilweise gegen Gebühr, nutzen können. Auch Frühstück könnte man buchen. Das Hotel liegt etwas abgelegen, wodurch es sehr ruhig, aber auch etwas entfernt von sonstiger Infrastruktur ist. Wenn man am Strand entlag läuft, findet man ein paar Fischrestaurants. Für Supermärkte und andere Restaurants müssten wir vermutlich ein Taxi nehmen.
+Hierbei handelt es sich um ein Penthouse, welches zu einem [Hotelkomplex](https://www.allritmocancun.com/en/galeria/) gehört, wir aber über [airbnb](https://www.airbnb.de/rooms/30560817?location=Canc%C3%BAn%2C%20Mexiko&adults=10&children=2&check_in=2020-02-29&check_out=2020-03-13&source_impression_id=p3_1564205798_WGMMT0FXvskewmMB&guests=12&sl_alternate_dates_exclusion=true) buchen könnten. Das schöne hier, es gibt einen kleinen Wasserpark, wir sind direkt am Strand, es gibt einen Pool mit Bar und Restaurants als Teil der Hotelinfrastruktur, die wie, teilweise umsonst, teilweise gegen Gebühr, nutzen können. Auch Frühstück könnte man buchen. Das Hotel liegt etwas abgelegen, wodurch es sehr ruhig, aber auch etwas entfernt von sonstiger Infrastruktur ist. Wenn man am Strand entlag läuft, findet man ein paar Fischrestaurants. Für Supermärkte und andere Restaurants müssten wir vermutlich ein Taxi nehmen.
 
 <a href="https://goo.gl/maps/Y3RPwxKPGdcugQxj7" target="_blank">
   <img src="./images/all-ritmo-cancun.png" style="max-width:700px" />
