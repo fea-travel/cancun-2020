@@ -64,7 +64,6 @@ Die Preise gelten immer für **12 Personen (10 Erwachsene, 1 Kind, 1 Baby)** und
 
 #### Kontra
 
-- Betten sind auf wenige Zimmer aufgeteilt
 - etwas wenig Infrastruktur (abseits vom Hotelkomplex)
 - Fahrtkosten zu Sehenswürdigkeiten könnten im Vergleich etwas höher sein
 
