@@ -14,7 +14,8 @@ Hallo ihr Lieben. Ihr werdet hier alle Informationen und Optionen zu unserer Can
     - [3.135,- € | 48€ pro Nacht und Gruppe](#3135--%e2%82%ac--48%e2%82%ac-pro-nacht-und-gruppe)
     - [Pro](#pro)
     - [Beschreibung](#beschreibung)
-    - [Preis im Detail](#preis-im-detail)
+    - [Preis - Neu](#preis---neu)
+    - [Preis im Detail - Alt](#preis-im-detail---alt)
   - [Alternativen](#alternativen)
     - [All Ritmo Cancun](#all-ritmo-cancun)
       - [2.994,- € | 46€ pro Nacht und Gruppe](#2994--%e2%82%ac--46%e2%82%ac-pro-nacht-und-gruppe)
@@ -93,7 +94,28 @@ Auch in der Hotelgegend - wennauch etwas ruhiger, als die Grand Villa - liegt di
   <img src="./images/casa.png" style="max-width:700px" />
 </a>
 
-### Preis im Detail
+### Preis - Neu
+
+Da Theresas Freundin leider abgesagt hat, müssen wir den Preis neu berechnen. Wir z45ählen jetzt Theresa mit ihren Eltern in eine Gruppe und haben somit nur noch 4, anstatt 5, Gruppen. Die Rechnung:
+
+2 Gruppen à 13 Nächte
+
+- 1 Gruppe à 12 Nächte
+- 1 Gruppe à 7 Nächte
+  = 45 Nächte
+
+  3.135 € / 45 Nächte = 69,67 € / Gruppe / Nacht
+
+| Gruppe | Nächte | Preis      | Noch zu zahlen |
+| ------ | ------ | ---------- | -------------- |
+| GZ     | 7      | 487,69 €   | 487,69 €       |
+| BG     | 12     | 836,04 €   | 0              |
+| BE     | 13     | 905,71 €   | 205,71 €       |
+| SA     | 13     | 905,71 €   | -494,29 €      |
+| ------ | ------ | ---------- | -------------- |
+| =      | 45     | 3.135,15 € |                |
+
+### Preis im Detail - Alt
 
 Da diese Option bisher die meisten Stimmen erhalten hat, werde ich die Kostenaufteilung mal im Detail beleuchten. **Da Blanca und Gerardo nur 7 Nächte bleiben, denke ich, sollten sie auch nur 7 Nächte zahlen und wir teilen den Rest zwischen allen anderen Parteien auf. Falls das für euch nicht in Ordnung sein sollte, gebt mir bitte eine schnelle Rückmeldung.** Ich berechne einmal nach Anzahl der Gruppen (5) und Anzahl der Personen pro Gruppe (11). **Amelie habe ich nicht mit berechnet, da Babys idR nicht berechnet werden und sie auch kein eigenes Bett etc. hat.**
 
