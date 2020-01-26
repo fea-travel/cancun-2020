@@ -112,8 +112,8 @@ Da Theresas Freundin leider abgesagt hat, müssen wir den Preis neu berechnen. W
 | BG     | 12     | 836,04 €   | 0              |
 | BE     | 13     | 905,71 €   | 205,71 €       |
 | SA     | 13     | 905,71 €   | -494,29 €      |
-| ------ | ------ | ---------- | -------------- |
-| =      | 45     | 3.135,15 € |                |
+|        | ------ | ---------- |                |
+|        | 45     | 3.135,15 € |                |
 
 ### Preis im Detail - Alt
 
